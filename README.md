@@ -1,3 +1,18 @@
+![Program Banner](images/program-banner.jpg)
+
+---
+
+## 🧾 Student Credentials
+
+**Name:** Aarav Aggarwal  
+**Father's Name:** Ankur Aggarwal  
+**Branch:** Computer Science and Engineering (B.Tech)  
+**Registration No.:** 25104072  
+**Phone Number:** 6284225720  
+**Email ID:** aaravaggarwal1045@gmail.com  
+
+---
+
 # 🎓 Induction Program Report – Guru Nanak Dev Engineering College (GNDEC), Ludhiana
 
 **Program Title:** Student Induction Program 2025  
@@ -22,9 +37,20 @@ Following the prayer, we were warmly served a delicious treat of **samosas, pako
 
 ## 🏛️ Orientation at the College Auditorium
 
-We then gathered in the **college auditorium** to attend the official **Day 1 induction program**. The session commenced with an introduction to the **Heads of Departments (HODs)** of **Computer Science** and **Information Technology**, including **Dr. Harpreet Kaur Grewal**, our esteemed HOD ma’am.  
+We then gathered in the **college auditorium** to attend the official **Day 1 induction program**. The session commenced with the introduction of our **respective department HODs**:
 
-She delivered a **motivational and uplifting speech** 💫, encouraging us to make the most of this new beginning. She also informed us that the **first-year curriculum would be common for all branches**, laying a strong foundation for every student regardless of their specialization.
+- **Prof. K.S. Maan**, Head of Department, Information Technology  
+- **Dr. Kiran Jyoti**, Head of Department, Computer Science  
+
+Both shared welcoming remarks and offered valuable insights into our academic journey ahead.
+
+**Dr. Harpreet Kaur Grewal** also delivered a **motivational and uplifting speech** 💫, encouraging us to make the most of this new beginning. She informed us that the **first-year curriculum would be common for all branches**, laying a strong foundation for every student regardless of their specialization.
+
+---
+
+## 🎤 Special Guest: Shri Rakesh Kumar, ADC Ludhiana
+
+We had the privilege of hearing from **Shri Rakesh Kumar**, **Additional Deputy Commissioner (ADC), Ludhiana**, who graced the event and delivered a truly **motivational and encouraging speech**. His words inspired us to be disciplined, stay curious, and take full advantage of the resources GNDEC has to offer 💬🌟.
 
 ---
 

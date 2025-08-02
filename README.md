@@ -1,7 +1,7 @@
 ![image alt](https://github.com/aarav4518/student-induction-program-gndec-/blob/17a7b6523d54e86d149fe9371d688b9b9afd8e39/ChatGPT%20Image%20Aug%202%2C%202025%20at%2011_23_02%20PM.png) 
 
 ---
-<table style="border:none; vertical-align:top;">
+<table style="border:none;">
   <tr>
     <td style="padding-right:40px;" valign="top">
       <img src="" alt="Student Photo" style="border-radius:12px; border: 1px solid #ccc;">
@@ -41,7 +41,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 

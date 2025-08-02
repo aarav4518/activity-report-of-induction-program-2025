@@ -43,40 +43,42 @@
 
 ---
 
+---
+
 ## 📑 Table of Contents
 
 <table>
-  <thead>
-    <tr>
-      <th>🛕 Day-wise Program</th>
-      <th>🧠 Reflection & Summary</th>
-      <th>🙌 Acknowledgements</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <ul>
-          <li><a href="#day-1--spiritual--academic-kickoff">📅 Day 1 – Spiritual & Academic Kickoff</a></li>
-          <li><a href="#day-2--scholarships--wellness">📅 Day 2 – Scholarships & Wellness</a></li>
-          <li><a href="#day-3--science--self-discovery">📅 Day 3 – Science & Self-Discovery</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li><a href="#conclusion">🎯 Conclusion</a></li>
-          <li><a href="#key-takeaways">✅ Key Takeaways</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li><a href="#thank-you">🙏 Thank You</a></li>
-          <li><a href="#credits--research-acknowledgement">🔍 Credits & Acknowledgement</a></li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td>🛕 <strong><a href="#day-1--spiritual--academic-kickoff">Day 1</a></strong></td>
+    <td>Spiritual & Academic Kickoff</td>
+  </tr>
+  <tr>
+    <td>🛕 <strong><a href="#day-2--scholarships--wellness">Day 2</a></strong></td>
+    <td>Scholarships & Wellness</td>
+  </tr>
+  <tr>
+    <td>🛕 <strong><a href="#day-3--science--self-discovery">Day 3</a></strong></td>
+    <td>Science & Self-Discovery</td>
+  </tr>
+  <tr>
+    <td>🎯 <strong><a href="#conclusion">Conclusion</a></strong></td>
+    <td>Final Summary & Reflections</td>
+  </tr>
+  <tr>
+    <td>✅ <strong><a href="#key-takeaways">Key Takeaways</a></strong></td>
+    <td>Lessons Learned</td>
+  </tr>
+  <tr>
+    <td>🙏 <strong><a href="#thank-you">Thank You</a></strong></td>
+    <td>Gratitude Note</td>
+  </tr>
+  <tr>
+    <td>🔍 <strong><a href="#credits--research-acknowledgement">Credits</a></strong></td>
+    <td>Research & Acknowledgement</td>
+  </tr>
 </table>
+
+    
 
 ___
 

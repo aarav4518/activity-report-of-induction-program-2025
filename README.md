@@ -1,44 +1,48 @@
-![Induction Program Banner](./banner.jpg)
-
-# 🎓 Induction Program Report 2025  
-### *Guru Nanak Dev Engineering College, Ludhiana*
+![image alt](https://github.com/aarav4518/student-induction-program-gndec-/blob/17a7b6523d54e86d149fe9371d688b9b9afd8e39/ChatGPT%20Image%20Aug%202%2C%202025%20at%2011_23_02%20PM.png) 
 
 ---
 
----
-
-## 🧑‍🎓 Submitted By
-
-<table>
+<table style="border:none;">
   <tr>
-    <td><strong>Name</strong></td>
-    <td>Aarav Aggarwal</td>
-  </tr>
-  <tr>
-    <td><strong>Father's Name</strong></td>
-    <td>Ankur Aggarwal</td>
-  </tr>
-  <tr>
-    <td><strong>Branch</strong></td>
-    <td>B.Tech – Computer Science and Engineering</td>
-  </tr>
-  <tr>
-    <td><strong>Registration No.</strong></td>
-    <td>25104072</td>
-  </tr>
-  <tr>
-    <td><strong>Session</strong></td>
-    <td>2025–2029</td>
-  </tr>
-  <tr>
-    <td><strong>📱 Phone</strong></td>
-    <td>6284225720</td>
-  </tr>
-  <tr>
-    <td><strong>📧 Email</strong></td>
-    <td><a href="mailto:aaravaggarwal1045@gmail.com">aaravaggarwal1045@gmail.com</a></td>
+    <td style="padding-right:20px;">
+      <img src="" alt="User Photo" style="border-radius:10px;">
+      <p align="center" style="font-size:12px;"><em>Student Photo</em></p>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td><strong>Name</strong></td>
+          <td>Aarav Aggarwal</td>
+        </tr>
+        <tr>
+          <td><strong>Father’s Name</strong></td>
+          <td>Ankur Aggarwal</td>
+        </tr>
+        <tr>
+          <td><strong>Branch</strong></td>
+          <td>B.Tech – Computer Science and Engineering</td>
+        </tr>
+        <tr>
+          <td><strong>Registration No.</strong></td>
+          <td>25104072</td>
+        </tr>
+        <tr>
+          <td><strong>Session</strong></td>
+          <td>2025–2029</td>
+        </tr>
+        <tr>
+          <td><strong>📱 Phone</strong></td>
+          <td>6284225720</td>
+        </tr>
+        <tr>
+          <td><strong>📧 Email</strong></td>
+          <td><a href="mailto:aaravaggarwal1045@gmail.com">aaravaggarwal1045@gmail.com</a></td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
+
 
 ---
 

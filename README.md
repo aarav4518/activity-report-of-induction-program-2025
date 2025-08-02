@@ -40,9 +40,6 @@
   </tr>
 </table>
 
-
----
-
 ---
 
 ## 📑 Table of Contents

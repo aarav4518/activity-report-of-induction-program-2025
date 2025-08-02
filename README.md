@@ -1,128 +1,181 @@
-![Program Banner](images/program-banner.jpg)
+![Induction Program Banner](./banner.jpg)
+
+# 🎓 Induction Program Report 2025  
+### *Guru Nanak Dev Engineering College, Ludhiana*
 
 ---
 
-## 🧾 Student Credentials
+---
 
-**Name:** Aarav Aggarwal  
-**Father's Name:** Ankur Aggarwal  
-**Branch:** Computer Science and Engineering (B.Tech)  
-**Registration No.:** 25104072  
-**Phone Number:** 6284225720  
-**Email ID:** aaravaggarwal1045@gmail.com  
+## 🧑‍🎓 Submitted By
+
+<table>
+  <tr>
+    <td><strong>Name</strong></td>
+    <td>Aarav Aggarwal</td>
+  </tr>
+  <tr>
+    <td><strong>Father's Name</strong></td>
+    <td>Ankur Aggarwal</td>
+  </tr>
+  <tr>
+    <td><strong>Branch</strong></td>
+    <td>B.Tech – Computer Science and Engineering</td>
+  </tr>
+  <tr>
+    <td><strong>Registration No.</strong></td>
+    <td>25104072</td>
+  </tr>
+  <tr>
+    <td><strong>Session</strong></td>
+    <td>2025–2029</td>
+  </tr>
+  <tr>
+    <td><strong>📱 Phone</strong></td>
+    <td>6284225720</td>
+  </tr>
+  <tr>
+    <td><strong>📧 Email</strong></td>
+    <td><a href="mailto:aaravaggarwal1045@gmail.com">aaravaggarwal1045@gmail.com</a></td>
+  </tr>
+</table>
+
 
 ---
 
-# 🎓 Induction Program Report – Guru Nanak Dev Engineering College (GNDEC), Ludhiana
+## 📑 Table of Contents
 
-**Program Title:** Student Induction Program 2025  
-**Dates:** 31 July 2025 – 1 August 2025  
-**Venue:** Gurdwara Sahib & College Auditorium  
-**Prepared by:** Aarav Aggarwal
+<table>
+  <thead>
+    <tr>
+      <th>🛕 Day-wise Program</th>
+      <th>🧠 Reflection & Summary</th>
+      <th>🙌 Acknowledgements</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li><a href="#day-1--spiritual--academic-kickoff">📅 Day 1 – Spiritual & Academic Kickoff</a></li>
+          <li><a href="#day-2--scholarships--wellness">📅 Day 2 – Scholarships & Wellness</a></li>
+          <li><a href="#day-3--science--self-discovery">📅 Day 3 – Science & Self-Discovery</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li><a href="#conclusion">🎯 Conclusion</a></li>
+          <li><a href="#key-takeaways">✅ Key Takeaways</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li><a href="#thank-you">🙏 Thank You</a></li>
+          <li><a href="#credits--research-acknowledgement">🔍 Credits & Acknowledgement</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
----
+___
 
-# 📅 Day 1 – Spiritual & Academic Kickoff  
-**Date:** 31 July 2025
+## 📅 Day 1 – Spiritual & Academic Kickoff  
+**Date:** 31 July 2025  
 
----
+### 🌄 A Divine Start
+Our journey began with the blessings of **Shri Guru Nanak Dev Ji** at the Gurdwara Sahib. After a peaceful *Shabad*, we were treated to samosas, pakoras, tea, and cold drinks — the perfect start!
 
-## 🌅 A Memorable Beginning to Our College Journey
+### 🏛️ Auditorium Welcome
+At the college auditorium, we were warmly introduced to our department heads:
+- 🧑‍🏫 **Prof. K.S. Maan** – HOD, IT  
+- 👩‍🏫 **Dr. Kiran Jyoti** – HOD, CSE  
+- 👩‍🏫 **Dr. Harpreet Kaur Grewal** delivered a powerful motivational session and introduced us to the shared first-year curriculum.
 
-Our journey as engineering students at **Guru Nanak Dev Engineering College (GNDEC)** began on a spiritual note 🙏. We sought the divine blessings of **Shri Guru Nanak Dev Ji** at the **Gurdwara Sahib**, where the soothing *Shabad Kirtan* set a peaceful and inspiring tone for the day.  
+### 🎤 Esteemed Speakers
+- **Shri Rakesh Kumar (ADC Ludhiana)** inspired us with leadership and vision.
+- **Dr. Sehijpal Singh (Principal)** discussed the proud 70-year GNDEC legacy.
+- **Er. Ravinder Garg (Chief Engineer, MC Ludhiana)** spoke about how engineering shapes communities.
 
-Following the prayer, we were warmly served a delicious treat of **samosas, pakoras, tea, and cold drinks** 🍵🥟, adding a touch of traditional hospitality to the occasion.
-
----
-
-## 🏛️ Orientation at the College Auditorium
-
-We then gathered in the **college auditorium** to attend the official **Day 1 induction program**. The session commenced with the introduction of our **respective department HODs**:
-
-- **Prof. K.S. Maan**, Head of Department, Information Technology  
-- **Dr. Kiran Jyoti**, Head of Department, Computer Science  
-
-Both shared welcoming remarks and offered valuable insights into our academic journey ahead.
-
-**Dr. Harpreet Kaur Grewal** also delivered a **motivational and uplifting speech** 💫, encouraging us to make the most of this new beginning. She informed us that the **first-year curriculum would be common for all branches**, laying a strong foundation for every student regardless of their specialization.
-
----
-
-## 🎤 Special Guest: Shri Rakesh Kumar, ADC Ludhiana
-
-We had the privilege of hearing from **Shri Rakesh Kumar**, **Additional Deputy Commissioner (ADC), Ludhiana**, who graced the event and delivered a truly **motivational and encouraging speech**. His words inspired us to be disciplined, stay curious, and take full advantage of the resources GNDEC has to offer 💬🌟.
-
----
-
-## 🎓 Words of Wisdom from Leadership
-
-We were then introduced to our **Principal Sir, Dr. Sehijpal Singh**, who welcomed us with inspiring words. He emphasized the **importance of these four years** in shaping not just our careers but our lives.  
-
-Dr. Singh also proudly spoke about the **legacy of GNDEC**, which is set to complete **70 glorious years** next year 🏅. His words gave us a sense of pride and responsibility as new members of such a historic institution.
-
----
-
-## 🧑‍💼 Guest of Honour: Er. Ravinder Garg
-
-A special highlight of Day 1 was the address by **Er. Ravinder Garg**, **Chief Engineer at the Municipal Corporation, Ludhiana**.  
-
-As our **Guest of Honour**, he spoke passionately about the **rich heritage of GNDEC** and highlighted the **importance of discipline, learning, and self-growth** throughout our engineering journey 🛠️.
-
----
-
-## 👨‍🏫 Meet the Faculty
-
-The session concluded with the introduction of our **teaching faculty**, who outlined the **code of conduct** to be followed in college 📘.  
-
-Their guidance and presence reassured us that we’re entering an academic environment committed to excellence, support, and holistic development.
+### 👨‍🏫 Faculty & Campus Tour
+Our professors introduced themselves, briefed us on college ethics, and finally... we explored our **classrooms and campus for the first time**. Magical moment!
 
 ---
 
-## 🏫 First Glimpse of the Campus
+## 📅 Day 2 – Scholarships & Wellness  
+**Date:** 1 August 2025  
 
-After the program, we were **delighted to explore the campus and classrooms for the very first time** ✨. Walking through the corridors, stepping into our new classrooms, and taking in the vibrant college environment filled us with **excitement and a sense of belonging** 💙.
+### 💸 Scholarships with Buddy4Study
+A practical session that taught us:
+- How to apply for **financial scholarships**
+- Eligibility, timelines, and documentation
+- How to build a financially aware mindset during engineering
 
-It was the moment we truly felt the beginning of our college life.
-
----
-
-## 📌 Conclusion for Day 1
-
-The first day of the induction program was not just an orientation — it was a **well-rounded introduction to college life**, blending spirituality, inspiration, and academic foresight. It successfully set the tone for an exciting and enriching journey ahead at GNDEC. 💼📚
-
-> ✨ _“The journey of a thousand miles begins with a single step — and ours began with blessings, learning, and hope.”_
-
----
-
-# 📅 Day 2 – Exploring Opportunities & Wellness  
-**Date:** 1 August 2025
+### 🍎 Health & Nutrition with Dr. Arashdeep Singh (PAU Alumni)
+- Spoke on **mental and physical health** through diet
+- Busted popular food myths
+- Shared insights on maintaining healthy eating habits
+- Explained how eating habits affect memory, focus, and well-being
+- Highlighted how a healthy student becomes a **successful learner**
 
 ---
 
-## 🎓 Introduction to Buddy4Study – Scholarships & Support
+## 📅 Day 3 – Science & Self-Discovery  
+**Date:** 2 August 2025  
 
-Day 2 of the Induction Program began with an informative session by the team from **Buddy4Study**, a platform dedicated to providing **scholarship opportunities to students across India**.  
+### 🧪 Physics with a Purpose – Dr. Jaswinder Singh “Jaswins”
+- Talked about how **maths and physics are everywhere**
+- Shared the flower story from **Bhai Veer Singh Ji**
+- Encouraged self-reflection: *“Talk to yourself to know yourself.”*
+- Demonstrated mind-blowing experiments 🔬
+- Explained the spiritual and mathematical meaning of the number **108**
+- Gave life lessons rooted in **Sikh teachings**
+- Blended **science + storytelling** in the most interactive way
 
-They guided us through various **government and private scholarships** available for engineering students and shared valuable tips on **how to apply effectively**, maximize our chances, and stay updated on upcoming opportunities 💰📚.  
+> ✨ “Desire is what drives achievement — to achieve something great, you must want it with all your heart.”  
 
-This session opened our eyes to the financial aid and academic support systems that can empower our educational journey.
+### 💬 Universal Human Values with Dr. Priya Darshani
+- Discussed the **importance of relationships, values, and clarity**
+- Helped us evaluate our **goals and aspirations**
+- Taught how to remain **happy while helping others be happy**
+- Helped us understand the **true needs** of human life (not just material)
 
 ---
 
-## 🥗 Alumni Talk – Nutrition & Mental Health
-
-Following the scholarship session, we had the opportunity to hear from a distinguished **alumnus of PAU Ludhiana**, who conducted a **wellness-focused talk** on the **importance of food in maintaining mental and physical health** 🧠💪.  
-
-They busted several **common food myths**, emphasized **balanced diets**, and explained how proper nutrition directly impacts our concentration, energy levels, and overall performance in college.  
-
-It was a refreshing and insightful session that blended science with practical, everyday habits we can adopt.
+## 🎯 Conclusion  
+This 3-day induction wasn’t just about college rules.  
+It opened our eyes to:
+- The **legacy** we are stepping into  
+- The **power of self-reflection**  
+- The **responsibility** we carry as future engineers  
+- And how to blend **values with learning**
 
 ---
 
-## 📌 Conclusion for Day 2
+## 🏁 Key Takeaways  
+✅ Begin with blessings & gratitude  
+✅ Explore opportunities like **scholarships**  
+✅ Maintain mental & physical **well-being**  
+✅ Ask questions, learn by doing  
+✅ Relationships, values, and clarity matter  
+✅ Choose growth > comfort  
+✅ Be curious. Be courageous. Be you.
 
-Day 2 of the induction program was packed with **practical knowledge and personal growth insights**. We learned how to take charge of our **academic support systems through scholarships**, and how to nurture our **well-being through food and lifestyle choices**.  
+---
 
-This day was a reminder that college isn’t just about academics — it’s about growing holistically 💡🌿.
+## 🙏 Thank You  
+I would like to sincerely thank **Guru Nanak Dev Engineering College**, all faculty members, guest speakers, and my fellow batchmates for making this induction program a memorable and meaningful experience.  
+These first few days have already given me a sense of pride and purpose — and I’m excited to grow, contribute, and make the most of my journey here.
 
-> 🧠 _“Knowledge feeds the mind, but good food fuels the body — and both are essential to thrive.”_
+---
+
+## 🔍 Credits & Research Acknowledgement  
+I would like to thank the following for their support and references during the preparation of this report:
+
+- 🙏 **Seniors** who guided me with their experiences and insights  
+- 🌐 [Google](https://www.google.com) for helping research various topics and personalities mentioned  
+- 📸 **Special thanks** to the official Instagram page of [**Causmic Club**](https://www.instagram.com/causmic_club/) for providing visuals and capturing memories from the induction program  
+
+Their support made this report more informative and visually rich.
+---
+

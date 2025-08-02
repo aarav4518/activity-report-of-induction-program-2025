@@ -1,4 +1,4 @@
-![image alt]() 
+![image alt](https://github.com/aarav4518/student-induction-program-gndec-/blob/main/59ECDD9D-7273-4FC9-A074-E7ABD22AFAC8.jpeg?raw=true) 
 
 
 ---

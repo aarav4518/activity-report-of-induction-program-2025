@@ -1,4 +1,7 @@
-![image alt](https://github.com/aarav4518/student-induction-program-gndec-/blob/main/59ECDD9D-7273-4FC9-A074-E7ABD22AFAC8.jpeg?raw=true) 
+
+
+<h1 align="center">🎓 Induction Program Report – 2025</h1>
+<h3 align="center">Guru Nanak Dev Engineering College, Ludhiana</h3>
 
 
 ---
@@ -84,7 +87,7 @@ A practical session that taught us:
 - Highlighted how a healthy student becomes a **successful learner**
 ### Some Glimpses of Day 2 📸 :
 
-
+![image alt](https://github.com/aarav4518/activity-report-of-induction-program-2025/blob/main/4740B57C-4181-414F-80C6-5D61326741A5.jpeg?raw=true)
 
 
 

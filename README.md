@@ -2,46 +2,15 @@
 
 
 ---
-<table style="border:none;">
-  <tr>
-    <td style="padding-right:40px;" valign="top">
-      <img src="https://github.com/aarav4518/student-induction-program-gndec-/blob/main/IMG_8782%202.jpeg?raw=true" alt="Student Photo" style="border-radius:12px; border: 1px solid #ccc;">
-      <p align="center" style="font-size:12px;"><em>Student Photo</em></p>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td><strong>Name</strong></td>
-          <td>Aarav Aggarwal</td>
-        </tr>
-        <tr>
-          <td><strong>Father’s Name</strong></td>
-          <td>Ankur Aggarwal</td>
-        </tr>
-        <tr>
-          <td><strong>Branch</strong></td>
-          <td>B.Tech – Computer Science and Engineering</td>
-        </tr>
-        <tr>
-          <td><strong>Registration No.</strong></td>
-          <td>25104072</td>
-        </tr>
-        <tr>
-          <td><strong>Session</strong></td>
-          <td>2025–2029</td>
-        </tr>
-        <tr>
-          <td><strong>📱 Phone</strong></td>
-          <td>6284225720</td>
-        </tr>
-        <tr>
-          <td><strong>📧 Email</strong></td>
-          <td><a href="mailto:aaravaggarwal1045@gmail.com">aaravaggarwal1045@gmail.com</a></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+> 📘 **Built & Deployed By:**  
+**Name:** Aarav Aggarwal  
+**Father's Name:** Ankur Aggarwal  
+**Branch:** B.Tech – Computer Science and Engineering  
+**Reg. No.:** 25104072  
+**Session:** 2025–2029  
+**Phone:** 6284225720  
+**Email:** aaravaggarwal1045@gmail.com
+
 
 ---
 

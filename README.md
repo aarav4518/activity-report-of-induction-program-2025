@@ -2,14 +2,21 @@
 
 
 ---
-> 📘 **Built & Deployed By:**  
-**Name:** Aarav Aggarwal  
+## 📘 **Built & Deployed By:**
+
+**Name:** Aarav Aggarwal
+
 **Father's Name:** Ankur Aggarwal  
 **Branch:** B.Tech – Computer Science and Engineering  
 **Reg. No.:** 25104072  
 **Session:** 2025–2029  
 **Phone:** 6284225720  
 **Email:** aaravaggarwal1045@gmail.com
+
+
+
+![image alt](https://github.com/aarav4518/activity-report-of-induction-program-2025/blob/main/8603030d-5ded-4127-8a71-186fce310e82%20Small.jpeg?raw=true) 
+
 
 
 ---
@@ -49,6 +56,15 @@ At the college auditorium, we were warmly introduced to our department heads:
 ### 👨‍🏫 Faculty & Campus Tour
 Our professors introduced themselves, briefed us on college ethics, and finally... we explored our **classrooms and campus for the first time**. Magical moment!
 
+### Some Glimpses of Day 1 📸 :
+
+
+
+
+![image alt](https://github.com/aarav4518/activity-report-of-induction-program-2025/blob/main/WhatsApp%20Image%202025-08-03%20at%2022.31.32%20Small.jpeg?raw=true)
+
+
+
 ---
 
 ## 📅 Day 2 – Scholarships & Wellness  
@@ -66,6 +82,11 @@ A practical session that taught us:
 - Shared insights on maintaining healthy eating habits
 - Explained how eating habits affect memory, focus, and well-being
 - Highlighted how a healthy student becomes a **successful learner**
+### Some Glimpses of Day 2 📸 :
+
+
+
+
 
 ---
 
@@ -88,6 +109,13 @@ A practical session that taught us:
 - Helped us evaluate our **goals and aspirations**
 - Taught how to remain **happy while helping others be happy**
 - Helped us understand the **true needs** of human life (not just material)
+### Some Glimpses of Day 3 📸 :
+
+
+
+
+![image alt](https://github.com/aarav4518/activity-report-of-induction-program-2025/blob/main/WhatsApp%20Image%202025-08-03%20at%2022.31.32%20(4)%20Small.jpeg?raw=true)
+
 
 ---
 

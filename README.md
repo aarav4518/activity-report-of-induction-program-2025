@@ -30,6 +30,7 @@
 |🛕Day 1 | Spiritual & Academic Kickoff |
 |🛕Day 2| Scholarships & wellness       |
 |🛕Day 3 | Science & Self-Discovery     |
+|🛕Day 4  | Coding, Values & College Life |
 |🎯Conclusions| Final Summary & Reflections |
 |✅ Key Takeaways | Lessons Learned |
 |🙏 Thank You | Gratitude Note      |
@@ -121,6 +122,69 @@ A practical session that taught us:
 
 
 ---
+## 📅 Day 4 – Coding, Values & College Life  
+**Date:** 3 August 2025  
+
+### 💻 Peer-to-Peer (P2P) Coding Session
+We began our day with an interactive **coding lecture by our seniors**, where we were introduced to:
+- Basics of programming
+- Fundamentals of **C++ language**
+- How coding will be a major part of our academic journey
+
+It was insightful to learn from our immediate seniors who once sat where we now do — their guidance felt relatable and motivating.
+
+---
+
+### ⚡ Introduction to BEEE – Basics of Electrical & Electronics Engineering
+This class was taken by **Harwinder Kaur Ma'am**, who introduced us to:
+- The BEEE subject and curriculum
+- Importance of electrical engineering for all branches
+- Each student gave a short self-introduction, helping us connect
+
+---
+
+### 🧘‍♀️ Understanding Self with Dr. Priya Darshani
+In this deep and interactive session, we learned:
+- The **difference between happiness, excitement, indulgence, and depression**
+- To avoid chasing material goods out of comparison
+- That we should focus on **values-based skills**, not just any skills
+- Concepts like:
+  - Physical facilities vs human needs
+  - Right vs wrong desires
+  - Self-control and introspection
+- Practiced **self-exploration** and discovered the value of asking ourselves “Why?” behind our actions
+
+> 💬 *"Happiness is found in continuity with natural aspiration, not temporary indulgence."* – Dr. Priya Darshani
+
+---
+
+### 🎤 Causmic Club Session – The Pulse of GNDEC
+We were introduced to **Causmic Club**, one of the most active and fastest-growing student clubs of GNDEC. Founded in 2023, the club:
+- Hosts college-wide events like **ACME** and **APEX**
+- Organizes **inter-college competitions, cultural trips, and talent showcases**
+- Encourages students to explore leadership, creativity, and collaboration
+
+A senior from the club also gave a beautiful musical performance 🎶, which **lifted everyone's mood** and made the session even more memorable.
+
+---
+
+### 💻 Choosing the Right Laptop – Senior Guidance
+Towards the end of the day, our seniors held a helpful session on:
+- How to **choose the ideal laptop** for engineering
+- Hardware/software requirements for different fields
+- Tips to make informed tech decisions early on
+
+> 🎯 **My Day 4 Experience:**  
+> This day felt like a mix of **technical learning, emotional growth, and community connection**. I really appreciated how our seniors broke down coding in such an understandable way. Dr. Priya’s words helped me reflect on my goals and why I pursue them. The Causmic Club's vibe was full of energy — I look forward to being part of it!  
+> The laptop session was also extremely practical — now I feel much more confident about investing in the right tools for my journey.
+
+### Some Glimpses of Day 4 :
+
+
+![image alt]()
+
+
+
 
 ## 🎯 Conclusion  
 This 3-day induction wasn’t just about college rules.  

@@ -183,27 +183,92 @@ Towards the end of the day, our seniors held a helpful session on:
 
 ![image alt]()
 
+## 📅 Day 5 – Academics, Guidance & Growth  
+**Date:** 4 August 2025  
+
+### 🧪 Chemistry Class with Prof. Karan Bhalla  
+We began the day with a warm and engaging session by **Prof. Karan Bhalla**, our Chemistry faculty.  
+Key highlights:
+- Every student introduced themselves and shared their dreams and goals  
+- Reflected on what we learned from previous sessions, especially **Dr. Priya Darshani Ma’am’s lecture**  
+- Discussed the **exam pattern**, **syllabus**, and **course structure**  
+- Explored the first chapter: **Water Chemistry**  
+- Talked about common **metallic compounds** like magnesium and calcium
+
+---
+
+### 📘 English Class with Prof. Nisha  
+Our English session was taken by **Prof. Nisha**, who focused on professional communication and language confidence:
+- Asked us to give **self-introductions** and share our **hobbies**  
+- Corrected grammar mistakes in a constructive way  
+- Taught us the importance of **formal introduction** in a career  
+- Encouraged us to **speak without fear** — right or wrong, we must try!
+
+---
+
+### 🏛️ Motivational Address by S. Gurcharan Singh Grewal (SGPC Secretary)  
+One of the most inspiring sessions was taken by **S. Gurcharan Singh Grewal**, Trustee & SGPC Secretary:  
+- A **1983 Mechanical Engineering alumnus** of GNDEC  
+- Shared how student fees are utilized for institutional development  
+- Talked about his journey in politics (Shiromani Akali Dal) and the **importance of giving back to society**  
+- Encouraged us to be **bold, confident, and proud** of being part of this historic institution  
+- Took **feedback** on hostel and campus facilities  
+
+> 🗣️ “You should have the courage to speak up — for yourself and for others.”
+
+---
+
+### 🧠 Centralized Multifaceted Learning (CML) – Dr. Lakhvir Singh Khanna  
+A very informative session was taken by **Dr. Lakhvir Singh Khanna**, Incharge of CML:  
+- Explained the **importance of the induction program** and learning beyond books  
+- Shared details of:
+  - **Workshops, activities, and training sessions**
+  - **College-level and national-level competitions**
+  - **Collaborations and certification partners**
+- Introduced the team behind CML and their support system  
+- Explained **SWAYAM** (MHRD Platform) and **NPTEL Courses**
+  - How to register, enroll, and complete courses
+  - Recommended doing at least **one course per semester**
+
+> 💡 “Learning never ends. Make the most of every platform you can.”
+
+---
+
+### 💥 Motivation with Dr. Arvind Dhingra – Director, STEP  
+The day ended with an enthusiastic session by **Dr. Arvind Dhingra Sir**, Director of STEP (Skill & Training Enhancement Program):  
+- Reminded us that **passion + effort = success**  
+- Boosted our energy and confidence  
+
+
+---
+
+### ✨ **My Day 5 Experience:**  
+> This day brought a **balance of academics, soft skills, and vision**. Chemistry and English classes helped me see the structure of our semester while also guiding me on communication and clarity.  
+> The motivational sessions from trustees and directors made me realize how much is available for us — from online learning to club activities. I'm especially interested in doing an NPTEL course soon.  
+> Every speaker echoed the same thing: **Believe in yourself, and keep learning.**
+
+
+### Some Glimpses of Day 5 :
+
+![image alt](
 
 
 
-## 🎯 Conclusion  
-This 3-day induction wasn’t just about college rules.  
-It opened our eyes to:
-- The **legacy** we are stepping into  
-- The **power of self-reflection**  
-- The **responsibility** we carry as future engineers  
-- And how to blend **values with learning**
+
+
+
+
 
 ---
 
 ## 🏁 Key Takeaways  
-✅ Begin with blessings & gratitude  
-✅ Explore opportunities like **scholarships**  
-✅ Maintain mental & physical **well-being**  
-✅ Ask questions, learn by doing  
-✅ Relationships, values, and clarity matter  
-✅ Choose growth > comfort  
-✅ Be curious. Be courageous. Be you.
+
+- 🛕 Started with spiritual grounding and gratitude  
+- 📘 Understood academics, values, and campus life  
+- 💰 Learned about scholarships, health, and self-growth  
+- 💻 Gained exposure to coding and communication skills  
+- 🌐 Explored online learning platforms and college clubs  
+- 🎓 Inspired by alumni and the legacy of GNDEC
 
 ---
 

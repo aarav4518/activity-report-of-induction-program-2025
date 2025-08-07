@@ -182,7 +182,7 @@ Towards the end of the day, our seniors held a helpful session on:
 ### Some Glimpses of Day 4 :
 
 
-![image alt]()
+![image alt](https://github.com/aarav4518/activity-report-of-induction-program-2025/blob/main/PHOTO-2025-08-07-18-39-40%202%20Small.jpeg?raw=true)
 
 ## 📅 Day 5 – Academics, Guidance & Growth  
 **Date:** 4 August 2025  
@@ -251,7 +251,7 @@ The day ended with an enthusiastic session by **Dr. Arvind Dhingra Sir**, Direct
 
 ### Some Glimpses of Day 5 :
 
-![image alt](
+![image alt](https://github.com/aarav4518/activity-report-of-induction-program-2025/blob/main/PHOTO-2025-08-07-18-39-40%20Small.jpeg?raw=true)
 
 
 
@@ -318,7 +318,7 @@ Today was truly enriching 🌟. From getting clarity about college systems, club
 I really appreciated how well the college is organized and how much it values **student participation**. The interaction with seniors brought in a sense of belonging 🫂 and made me feel more at home.
 
 ### Some Glimpses of Day 6 :
-![image alt](
+![image alt](https://github.com/aarav4518/activity-report-of-induction-program-2025/blob/main/PHOTO-2025-08-07-18-41-14%20Small.jpeg?raw=true)
 
 
 

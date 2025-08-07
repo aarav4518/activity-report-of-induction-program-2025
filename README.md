@@ -1,5 +1,4 @@
 
-
 <h1 align="center">🎓 Induction Program Report – 2025</h1>
 <h3 align="center">Guru Nanak Dev Engineering College, Ludhiana</h3>
 
@@ -164,7 +163,7 @@ We were introduced to **Causmic Club**, one of the most active and fastest-growi
 - Organizes **inter-college competitions, cultural trips, and talent showcases**
 - Encourages students to explore leadership, creativity, and collaboration
 
-A senior from the club also gave a beautiful musical performance 🎶, which **lifted everyone's mood** and made the session even more memorable.
+A senior (**Snimerbir Singh**) from the club also gave a beautiful musical performance 🎶, which **lifted everyone's mood** and made the session even more memorable.
 
 ---
 

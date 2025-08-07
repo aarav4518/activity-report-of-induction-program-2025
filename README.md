@@ -30,6 +30,8 @@
 |🛕Day 2| Scholarships & wellness       |
 |🛕Day 3 | Science & Self-Discovery     |
 |🛕Day 4  | Coding, Values & College Life |
+|🛕Day 5 |Academics, Guidance & Growth |
+|🛕Day 6 | Academic, Ethics & Fun |
 |🎯Conclusions| Final Summary & Reflections |
 |✅ Key Takeaways | Lessons Learned |
 |🙏 Thank You | Gratitude Note      |
@@ -259,7 +261,8 @@ The day ended with an enthusiastic session by **Dr. Arvind Dhingra Sir**, Direct
 
 
 ---
-## 🗓️ Day 6
+## 🗓️ Day 6 - Academic, Ethics & Fun 🤩
+**Date-7th July 2025**
 
 The day began with an inspiring session by **Dr. Parminder Singh** 👨‍🏫, Dean of Student Welfare.  
 He motivated us to **work on ourselves**, discover our **strengths**, and pursue our **passions** 💡.  

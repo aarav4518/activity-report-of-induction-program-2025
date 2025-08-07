@@ -259,6 +259,79 @@ The day ended with an enthusiastic session by **Dr. Arvind Dhingra Sir**, Direct
 
 
 ---
+## 🗓️ Day 6
+
+The day began with an inspiring session by **Dr. Parminder Singh** 👨‍🏫, Dean of Student Welfare.  
+He motivated us to **work on ourselves**, discover our **strengths**, and pursue our **passions** 💡.  
+He assured us that the college would provide **all necessary facilities** to help us grow during these 4 years 🏫.
+
+He introduced us to several key aspects of college life:
+- 🏠 **Hostel facilities**, managed by the **mess committee**  
+- 💻 **Computer labs** and campus-wide **Wi-Fi access**  
+- 🏏 The **Sports Department**, its facilities, and the college's major **achievements in sports**  
+- 🥘 The **canteen**, and information about **NSS**, **NCC**, and various **student societies & clubs**  
+- 🏥 Details about the **medical facilities** and available **scholarships**, along with their eligibility criteria
+
+---
+
+Later, **Ms. Taranpreet Kaur** 👩‍💼, Convenor of the **Causmic Club** 🚀, interacted with us.  
+She answered our queries and gave a **brief overview of different student clubs** and their activities.
+
+---
+
+The next session was conducted by **Dr. Amit Kamra** 📱, Incharge of the **Digital Marketing Club**.  
+He introduced us to the world of **digital marketing** and explained how all the college’s **official social media accounts** are managed by the **students themselves** 🎥.  
+He highlighted:
+- 🧠 How digital marketing skills are developed through hands-on experience  
+- 📲 The importance of **content creation** and **event coverage**  
+- 🎬 Clips and videos made by students, guided by the faculty incharge  
+- 💼 How these skills are highly valuable in today’s competitive world
+
+---
+
+We then attended a session by **Dr. Randhir Singh** 📘, who explained the **"Conduct of Examination"** and the **Academic Portfolio** 📊.
+
+He covered:
+- 🧾 Login credentials for accessing portals  
+- 📝 Monthly and final **marking schemes**  
+- 📈 Grading system and attendance requirements  
+- 💳 Online **semester fee payment** system  
+- 🌐 The **Moodle** platform – for quizzes, assignments, online learning, and academic tracking
+
+He emphasized, **“Ignorance is not an excuse.”**
+
+---
+
+In the second half, we had our **first lecture of BEEE** ⚡, where we began learning about **DC circuits** 🔌 and covered the basic concepts.
+
+The day ended with a cheerful and light-hearted 🎉 **interaction session with seniors**.  
+We had a lot of fun, got to know each other, and felt more connected with the campus and the culture 😄.
+
+---
+
+### ✍️ My Experience
+
+Today was truly enriching 🌟. From getting clarity about college systems, clubs, and academics, to discovering new opportunities in digital marketing, everything added to my excitement for the upcoming years.  
+I really appreciated how well the college is organized and how much it values **student participation**. The interaction with seniors brought in a sense of belonging 🫂 and made me feel more at home.
+
+### Some Glimpses of Day 6 :
+![image alt](
+
+
+
+
+
+
+
+
+
+
+## ✅Conclusion
+
+The Student Induction Program 2025 has been a transformative journey. Across these six days, we were introduced to GNDEC's vision, values, faculty, academic structure, support systems, and cultural landscape. It helped us form bonds, gain clarity about our future, and understand how to grow as students and individuals. With motivation, guidance, and opportunity, we are now ready to embrace the four-year journey ahead with purpose and enthusiasm. 🌟🎓
+
+
+
 
 ## 🏁 Key Takeaways  
 
@@ -270,6 +343,7 @@ The day ended with an enthusiastic session by **Dr. Arvind Dhingra Sir**, Direct
 - 🎓 Inspired by alumni and the legacy of GNDEC
 
 ---
+
 
 ## 🙏 Thank You  
 I would like to sincerely thank **Guru Nanak Dev Engineering College**, all faculty members, guest speakers, and my fellow batchmates for making this induction program a memorable and meaningful experience.  
@@ -286,4 +360,5 @@ I would like to thank the following for their support and references during the 
 
 Their support made this report more informative and visually rich.
 ---
+
 

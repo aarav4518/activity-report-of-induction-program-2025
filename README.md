@@ -32,6 +32,8 @@
 |🛕Day 4  | Coding, Values & College Life |
 |🛕Day 5 |Academics, Guidance & Growth |
 |🛕Day 6 | Academic, Ethics & Fun |
+|🛕Day 7 |Food and Its importance |
+|🛕Day 8 |Introduction & Lab Visit |
 |🎯Conclusions| Final Summary & Reflections |
 |✅ Key Takeaways | Lessons Learned |
 |🙏 Thank You | Gratitude Note      |
@@ -319,16 +321,98 @@ I really appreciated how well the college is organized and how much it values **
 
 ### Some Glimpses of Day 6 :
 ![image alt](https://github.com/aarav4518/activity-report-of-induction-program-2025/blob/main/PHOTO-2025-08-07-18-41-14%20Small.jpeg?raw=true)
+----
 
 
+Here’s a more **attractive and engaging version** of your Day 8 in README format — keeping it professional but visually appealing for GitHub:
+
+---
+
+Here’s your **Day 7** in a more **attractive README-style format** matching your previous report style:
+
+---
+
+## 📅 Day 7 
+*7th August 2025*
+
+### 🥗 Session 1 — *Millets: A Super Food*
+
+**Speaker:** *Mrs. Shaffy Makar* (M.Sc Topper)
+
+The day began with an enlightening lecture on **millets** — often called a *superfood*. Mrs. Shaffy Makar shared:
+
+* 🌾 **Types of Millets** — variety, origin, and unique properties.
+* ❤️ **Health Benefits** — nutrient-rich, good for digestion, boosts immunity, and prevents lifestyle diseases.
+* ⚠️ **Decline in Diets** — how millets have slowly disappeared from modern meals.
+* 🍽 **Call to Action** — urging us to reintroduce millets into our daily diet for a healthier lifestyle.
+
+The session concluded with a **fun trivia quiz** and **interactive Q\&A**, keeping everyone engaged and curious.
+
+---
+
+### 📐 Session 2 — *Mathematics & Life Lessons*
+
+**Speaker:** *Prof. Gagandeep Kaur Lotey*
+
+Prof. Lotey took our **Mathematics class**, starting with:
+
+* 📘 Introduction to the **curriculum** (now reduced in scope).
+* 🔢 Detailed explanation of the **Number System** — including *real numbers*, *natural numbers*, and other sub-categories.
+
+She also shared valuable **life lessons**:
+
+* 🗣 Speak **politely and sophisticatedly** with everyone.
+* 🤝 **Respect others to gain respect** in return.
+* 📊 How mathematics concepts play a role in **real-life problem-solving**.
+
+---
+
+### 💡 **Key Takeaways**
+
+* Millets are **nutritional powerhouses** that can solve many health problems.
+* Being polite and respectful is as important as being knowledgeable.
+* Mathematics is not just an academic subject — it’s a **life skill**.
+
+---
+
+Do you want me to now **add this Day 7 in your full program README** along with **Day 8** so your whole report stays consistent?
 
 
+## 📆 Day 8 – INTRODUCTION & LAB VISIT 🔬
+**8 August 2025**
 
+### 🌅 **Morning Session – Communication & Confidence Building**
 
+The day began with an **interactive introduction session** conducted by **Ms. Manjot Kaur**, our English professor.
+She encouraged each of us to share:
 
+* **Our names** 🏷️
+* **Reason for choosing our course** 🎯
+* Personal thoughts and aspirations 💭
 
+She guided us with **helpful corrections**, boosted our **confidence in public speaking**, and inspired us to express ourselves effectively.
 
+---
 
+### ⚡ **Practical Session – Ohm’s Law in Action**
+
+In the **BEE Lab**, we explored:
+
+* The **fundamentals of Ohm’s Law** 📐
+* Its **limitations** and real-world relevance 🛠️
+* A **live experiment** demonstrating the phenomenon and applications 🔬
+
+This hands-on approach made the concept more **clear, practical, and memorable**.
+
+---
+
+### 📌 **Key Takeaways**
+
+* 🗣️ Improved communication & self-introduction skills.
+* 📚 Stronger understanding of **Ohm’s Law** and where it applies.
+* 🔍 Importance of **practical experiments** in strengthening theory.
+
+---
 ## ✅Conclusion
 
 The Student Induction Program 2025 has been a transformative journey. Across these six days, we were introduced to GNDEC's vision, values, faculty, academic structure, support systems, and cultural landscape. It helped us form bonds, gain clarity about our future, and understand how to grow as students and individuals. With motivation, guidance, and opportunity, we are now ready to embrace the four-year journey ahead with purpose and enthusiasm. 🌟🎓
